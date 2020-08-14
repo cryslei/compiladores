@@ -1,0 +1,4 @@
+{'token': 'while', 'id': 'palavra reservada', 'tam': 5, 'pos': (0, 0)}
+{'token': 'i', 'id': ['identificador', 1], 'tam': 1, 'pos': (0, 6)}
+{'token': '<', 'id': 'operador', 'tam': 1, 'pos': (0, 8)}
+{'token': '100', 'id': ['constante', 2], 'tam': 3, 'pos': (0, 10)}

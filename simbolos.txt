@@ -1,0 +1,1 @@
+{'indice': '1', 'simbolos': 'i'}{'indice': '2', 'simbolos': '100'}
